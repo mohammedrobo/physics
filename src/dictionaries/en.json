@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "logo": "Celestial Ledger",
+    "links": ["Research", "Colloquia", "Archival", "Faculty"]
+  },
+  "hero": {
+    "label": "Announcing the 2026 Symposium",
+    "title_line1": "Physics",
+    "title_line2": "Event",
+    "title_year": "2026",
+    "description": "A convergence of the world's leading theoretical minds exploring the boundaries of the observable universe. Hosted at the Institute of Advanced Physics.",
+    "date_label": "Date & Location",
+    "date": "October 14–20, 2026",
+    "location": "The Monolith Observatory, Geneva"
+  },
+  "about": {
+    "section_label": "01 / The Mission",
+    "title_line1": "Deciphering the",
+    "title_line2": "Invisible Architecture.",
+    "description": "The Physics Event 2026 serves as a definitive digital and physical artifact for the exchange of quantum-mechanical inquiry. Our mission is to bridge the gap between abstract mathematical models and the empirical reality of the cosmic fabric.",
+    "block1_title": "The Observational Void",
+    "block1_text": "We prioritize silence and space. In the noise of modern data, we provide the negative space required for genuine breakthrough. This is where the unseen becomes legible.",
+    "block2_title": "Empirical Integrity",
+    "block2_text": "Every track, every lecture, and every module is peer-reviewed for philosophical and scientific rigor, ensuring a standard of discourse unmatched in the field."
+  },
+  "tracks": {
+    "section_label": "02 / Research Modules",
+    "title": "Discovery Tracks",
+    "subtitle": "Selected disciplines for the 2026 cycle.",
+    "modules": [
+      {
+        "icon": "blur_on",
+        "title": "Quantum Workshops",
+        "description": "High-fidelity simulations focusing on non-local entanglement and sub-atomic particle choreography.",
+        "tag": "Level IV Access"
+      },
+      {
+        "icon": "trophy",
+        "title": "Grand Competitions",
+        "description": "Solving the Millennium Prize problems through collaborative algorithmic brute-force and intuition.",
+        "tag": "Global Ranking"
+      },
+      {
+        "icon": "menu_book",
+        "title": "Elite Lectures",
+        "description": "Keynote addresses from Nobel laureates regarding the curvature of spacetime and dark matter dynamics.",
+        "tag": "Keynote Series"
+      }
+    ]
+  },
+  "council": {
+    "section_label": "03 / The Council",
+    "members": [
+      {
+        "name": "Dr. Elias Vance",
+        "role": "Head of Gravitational Theory",
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDgrV_q_uQdbKFPEUeLns4fU4953BJhaJ-amzR_MyL6B8BGz02bBj0xUoVmJg3ScvaYktqq6b1rwLUOAnjdHz-KnQlxOiRwLeVCzitE5x1sL14eq9aqisbbXRA66IqV1UKUzCYXyJqCtgL-oy5TOCwFIM4-tmjDTVju7SReBWdwUbGiv-dM0kMNYjuWJmXk5lsnBVkEdmT6Qjr0zxKTBclqO2m_gxXotPZ9Jc_861tFwAjzG5EgfqfQImMLj9DkmtkvwycD3dejO_w"
+      },
+      {
+        "name": "Prof. Sarah Chen",
+        "role": "Quantum Cryptography",
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCgkj7SOlmQiNO54sxOJcajuizBY0BarLLqaEYhjcpzBNQ-t3pT8m08OB9BViiDRluXRB9F9YOdsDfOuYT9ktgnsH1p1-i1aBqQ8M1-uWGGJkXdygWnF5dJeHmp-Vq4JIW60bGT3FjmS-MpNimSh-3VT831X53JE9lqA6LqpiF-L2isMqZFctZ2eHdPDLXJXlgrjJvXaEErVte3bs37HQYVW1AThU8qhs7qpcMwOFsApqUE2bkvIkDoNEgLKNTZ9SO2nVNQmcnGGAk"
+      },
+      {
+        "name": "Marcus Thorne",
+        "role": "Astrophysics Director",
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDGLH4IvD_XkfD0YWkCAnWscS-xMybn5a-oLDXWpdyGTu-FweUY9CzvHN0ZDhQi8MwfSYQXoLsAUoAJkiZMp3HLweY3jEOYrlU7wb3cy6pk49_YjEAgsbP0SSkb4n551m0qgBmJQg53NuxubBsxptph9kkYmhOhHsmADLCzRxSO5-e95bM0t_F-acfO-r3f_VDRqEJ7IL2m06s1UPtdn2P4CPTNFluJjYhWh2GCL-h7w3r5ppNC9tFGGxWSa2mlSi4oGge68XF2a0g"
+      },
+      {
+        "name": "Dame Elena Rossi",
+        "role": "Particle Physics Lead",
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDDtI2nBFjyrYbMBupoe62a1OO7n2Ps-Jr748yceEuB724xE4HyCoviWtHvez_57eTFp1u4z1tpD96i8OALFWmP77YqhfRBeV0lMoECJYvbnFBaJcr3azChHjP4Rkcs4P4Hq6UI5QFrV8gC8f1QflgFkDewpWFgHa1C6aUpq2MoA0efOcXOIN9e8pBJILPcH1-2Q0NuatWcZ86zt-WWp98xpWy8qXVxvs5Hl7hsL9WHdpM8qt94kFqr_kt5xd-hXj8mdlmbbtqr2Y4"
+      }
+    ]
+  },
+  "roadmap": {
+    "section_label": "04 / Chronology",
+    "title": "Event Roadmap",
+    "events": [
+      {
+        "date": "Oct 14 / 09:00",
+        "title": "The Inaugural Collision",
+        "description": "Opening ceremony at the Core Accelerator Hub."
+      },
+      {
+        "date": "Oct 16 / 14:00",
+        "title": "Divergent Perspectives",
+        "description": "Parallel tracks on String Theory and Loop Quantum Gravity."
+      },
+      {
+        "date": "Oct 18 / 18:00",
+        "title": "The Synthesis Gala",
+        "description": "Interdisciplinary dinner at the Stellar Observation Deck."
+      },
+      {
+        "date": "Oct 20 / 11:00",
+        "title": "Final Resolution",
+        "description": "Publication of the 2026 Proceedings and final address."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Claim your station.",
+    "description": "Applications for the 2026 cycle are peer-reviewed. Secure your place among the elite of theoretical physics."
+  },
+  "footer": {
+    "logo": "Celestial Ledger",
+    "links": ["Ethics", "Privacy", "Technical Specifications", "Accessibility"],
+    "copyright": "© 2024 Institute of Theoretical Physics. All Rights Reserved."
+  }
+}

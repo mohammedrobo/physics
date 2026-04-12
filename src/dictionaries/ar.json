@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "logo": "السجل الفلكي",
+    "links": ["الأبحاث", "الندوات", "الأرشيف", "أعضاء الهيئة"]
+  },
+  "hero": {
+    "label": "الإعلان عن ندوة عام ٢٠٢٦",
+    "title_line1": "حدث",
+    "title_line2": "الفيزياء",
+    "title_year": "٢٠٢٦",
+    "description": "ملتقى لأبرز العقول النظرية في العالم لاستكشاف حدود الكون المرصود. يستضيفه معهد الفيزياء المتقدمة.",
+    "date_label": "التاريخ والموقع",
+    "date": "١٤ - ٢٠ أكتوبر، ٢٠٢٦",
+    "location": "مرصد المونوليث، جنيف"
+  },
+  "about": {
+    "section_label": "٠١ / المهمة",
+    "title_line1": "فك رموز",
+    "title_line2": "العمارة الخفية.",
+    "description": "يعد \"حدث الفيزياء ٢٠٢٦\" بمثابة أثر رقمي ومادي مخصص لتبادل الاستفسارات في ميكانيكا الكم. مهمتنا هي سد الفجوة بين النماذج الرياضية المجردة والواقع التجريبي للنسيج الكوني.",
+    "block1_title": "الفراغ الرصدي",
+    "block1_text": "نحن نولي الأولوية للصمت والمساحة. في ضجيج البيانات الحديثة، نوفر المساحة السلبية المطلوبة لتحقيق اختراقات حقيقية. هذا هو المكان الذي يصبح فيه غير المرئي مقروءاً.",
+    "block2_title": "النزاهة التجريبية",
+    "block2_text": "تتم مراجعة كل مسار ومحاضرة ووحدة من قبل الأقران لضمان الدقة الفلسفية والعلمية، مما يضمن مستوى من الخطاب لا يضاهى في هذا المجال."
+  },
+  "tracks": {
+    "section_label": "٠٢ / الوحدات البحثية",
+    "title": "مسارات الاكتشاف",
+    "subtitle": "تخصصات مختارة لدورة ٢٠٢٦.",
+    "modules": [
+      {
+        "icon": "blur_on",
+        "title": "ورش عمل الكم",
+        "description": "محاكاة عالية الدقة تركز على التشابك غير المحلي وتصميم حركات الجسيمات دون الذرية.",
+        "tag": "وصول المستوى الرابع"
+      },
+      {
+        "icon": "trophy",
+        "title": "المسابقات الكبرى",
+        "description": "حل مسائل جائزة الألفية من خلال القوة الخوارزمية الغاشمة والحدس البشري المشترك.",
+        "tag": "تصنيف عالمي"
+      },
+      {
+        "icon": "menu_book",
+        "title": "محاضرات النخبة",
+        "description": "كلمات رئيسية من الحائزين على جائزة نوبل فيما يتعلق بانحناء الزمكان وديناميكيات المادة المظلمة.",
+        "tag": "سلسلة الكلمات الافتتاحية"
+      }
+    ]
+  },
+  "council": {
+    "section_label": "٠٣ / المجلس",
+    "members": [
+      {
+        "name": "د. إلياس فانس",
+        "role": "رئيس نظرية الجاذبية",
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDgrV_q_uQdbKFPEUeLns4fU4953BJhaJ-amzR_MyL6B8BGz02bBj0xUoVmJg3ScvaYktqq6b1rwLUOAnjdHz-KnQlxOiRwLeVCzitE5x1sL14eq9aqisbbXRA66IqV1UKUzCYXyJqCtgL-oy5TOCwFIM4-tmjDTVju7SReBWdwUbGiv-dM0kMNYjuWJmXk5lsnBVkEdmT6Qjr0zxKTBclqO2m_gxXotPZ9Jc_861tFwAjzG5EgfqfQImMLj9DkmtkvwycD3dejO_w"
+      },
+      {
+        "name": "أ.د. سارة تشن",
+        "role": "تشفير الكم",
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCgkj7SOlmQiNO54sxOJcajuizBY0BarLLqaEYhjcpzBNQ-t3pT8m08OB9BViiDRluXRB9F9YOdsDfOuYT9ktgnsH1p1-i1aBqQ8M1-uWGGJkXdygWnF5dJeHmp-Vq4JIW60bGT3FjmS-MpNimSh-3VT831X53JE9lqA6LqpiF-L2isMqZFctZ2eHdPDLXJXlgrjJvXaEErVte3bs37HQYVW1AThU8qhs7qpcMwOFsApqUE2bkvIkDoNEgLKNTZ9SO2nVNQmcnGGAk"
+      },
+      {
+        "name": "ماركوس ثورن",
+        "role": "مدير الفيزياء الفلكية",
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDGLH4IvD_XkfD0YWkCAnWscS-xMybn5a-oLDXWpdyGTu-FweUY9CzvHN0ZDhQi8MwfSYQXoLsAUoAJkiZMp3HLweY3jEOYrlU7wb3cy6pk49_YjEAgsbP0SSkb4n551m0qgBmJQg53NuxubBsxptph9kkYmhOhHsmADLCzRxSO5-e95bM0t_F-acfO-r3f_VDRqEJ7IL2m06s1UPtdn2P4CPTNFluJjYhWh2GCL-h7w3r5ppNC9tFGGxWSa2mlSi4oGge68XF2a0g"
+      },
+      {
+        "name": "ديم إيلينا روسي",
+        "role": "رائدة فيزياء الجسيمات",
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDDtI2nBFjyrYbMBupoe62a1OO7n2Ps-Jr748yceEuB724xE4HyCoviWtHvez_57eTFp1u4z1tpD96i8OALFWmP77YqhfRBeV0lMoECJYvbnFBaJcr3azChHjP4Rkcs4P4Hq6UI5QFrV8gC8f1QflgFkDewpWFgHa1C6aUpq2MoA0efOcXOIN9e8pBJILPcH1-2Q0NuatWcZ86zt-WWp98xpWy8qXVxvs5Hl7hsL9WHdpM8qt94kFqr_kt5xd-hXj8mdlmbbtqr2Y4"
+      }
+    ]
+  },
+  "roadmap": {
+    "section_label": "٠٤ / التسلسل الزمني",
+    "title": "خارطة طريق الحدث",
+    "events": [
+      {
+        "date": "١٤ أكتوبر / ٠٩:٠٠",
+        "title": "الاصطدام الافتتاحي",
+        "description": "حفل الافتتاح في مركز المسرع الأساسي."
+      },
+      {
+        "date": "١٦ أكتوبر / ١٤:٠٠",
+        "title": "وجهات نظر متباعدة",
+        "description": "مسارات متوازية حول نظرية الأوتار والجاذبية الكمية الحلقية."
+      },
+      {
+        "date": "١٨ أكتوبر / ١٨:٠٠",
+        "title": "حفل التركيب العشاء",
+        "description": "عشاء متعدد التخصصات في منصة المراقبة النجمية."
+      },
+      {
+        "date": "٢٠ أكتوبر / ١١:٠٠",
+        "title": "القرار النهائي",
+        "description": "نشر وقائع عام ٢٠٢٦ والخطاب الختامي."
+      }
+    ]
+  },
+  "cta": {
+    "title": "احجز مكانك.",
+    "description": "تتم مراجعة طلبات الانضمام لدورة ٢٠٢٦ من قبل الأقران. اضمن مكانك بين نخبة علماء الفيزياء النظرية."
+  },
+  "footer": {
+    "logo": "السجل الفلكي",
+    "links": ["الأخلاقيات", "الخصوصية", "المواصفات الفنية", "إمكانية الوصول"],
+    "copyright": "© ٢٠٢٤ معهد الفيزياء النظرية. جميع الحقوق محفوظة."
+  }
+}

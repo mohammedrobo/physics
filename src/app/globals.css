@@ -1,0 +1,103 @@
+@import "tailwindcss";
+
+@theme {
+  /* Colors - Exact tokens from design system */
+  --color-surface-dim: #0c1324;
+  --color-primary-container: #ede3b8;
+  --color-on-surface: #dce1fb;
+  --color-on-tertiary-container: #636565;
+  --color-surface-container-lowest: #070d1f;
+  --color-on-secondary-container: #b8b8bc;
+  --color-tertiary-fixed-dim: #c6c6c7;
+  --color-tertiary-container: #e2e2e2;
+  --color-error: #ffb4ab;
+  --color-on-primary-container: #6c6542;
+  --color-on-tertiary-fixed: #1a1c1c;
+  --color-on-secondary-fixed-variant: #45474a;
+  --color-secondary-fixed-dim: #c6c6ca;
+  --color-surface-container-high: #23293c;
+  --color-outline-variant: #4a473c;
+  --color-on-error-container: #ffdad6;
+  --color-primary-fixed-dim: #d1c79d;
+  --color-surface-container-highest: #2e3447;
+  --color-outline: #959084;
+  --color-on-primary-fixed: #201c02;
+  --color-secondary-container: #48494c;
+  --color-on-tertiary-fixed-variant: #454747;
+  --color-primary: #ffffff;
+  --color-surface-tint: #d1c79d;
+  --color-on-primary: #363113;
+  --color-inverse-on-surface: #2a3043;
+  --color-inverse-surface: #dce1fb;
+  --color-tertiary: #ffffff;
+  --color-inverse-primary: #665f3d;
+  --color-on-secondary-fixed: #1a1c1f;
+  --color-on-error: #690005;
+  --color-secondary-fixed: #e2e2e6;
+  --color-surface-bright: #33394c;
+  --color-surface-variant: #2e3447;
+  --color-on-surface-variant: #ccc6b8;
+  --color-on-primary-fixed-variant: #4d4727;
+  --color-surface: #0c1324;
+  --color-primary-fixed: #ede3b8;
+  --color-tertiary-fixed: #e2e2e2;
+  --color-secondary: #c6c6ca;
+  --color-surface-container: #191f31;
+  --color-error-container: #93000a;
+  --color-on-background: #dce1fb;
+  --color-on-tertiary: #2f3131;
+  --color-on-secondary: #2f3034;
+  --color-background: #0c1324;
+  --color-surface-container-low: #151b2d;
+
+  /* Font families */
+  --font-headline: "Newsreader", serif;
+  --font-headline-ar: "Amiri", serif;
+  --font-body: "Space Grotesk", sans-serif;
+  --font-body-ar: "IBM Plex Sans Arabic", sans-serif;
+  --font-label: "Space Grotesk", sans-serif;
+  --font-label-ar: "IBM Plex Sans Arabic", sans-serif;
+
+  /* Border radius - 0px system */
+  --radius: 0px;
+  --radius-lg: 0px;
+  --radius-xl: 0px;
+  --radius-2xl: 0px;
+  --radius-3xl: 0px;
+}
+
+body {
+  background-color: #0c1324;
+  color: #dce1fb;
+  font-family: "Space Grotesk", sans-serif;
+}
+
+body[dir="rtl"] {
+  font-family: "IBM Plex Sans Arabic", sans-serif;
+}
+
+.grain-overlay {
+  pointer-events: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  opacity: 0.02;
+  z-index: 9999;
+}
+
+.text-electrum {
+  color: #d1c79d;
+}
+
+.border-ghost {
+  border: 0.5px solid rgba(74, 71, 60, 0.3);
+}
+
+/* Selection colors */
+::selection {
+  background-color: #d1c79d;
+  color: #201c02;
+}
