@@ -67,7 +67,7 @@ export default function Navbar({ dict, locale }: NavbarProps) {
         </div>
 
         {/* Right side: lang toggle + hamburger */}
-        <div className={`flex items-center gap-4 ${isArabic ? "flex-row-reverse" : "flex-row"}`}>
+        <div className={`flex items-center gap-4 pr-2 md:pr-0 ${isArabic ? "flex-row-reverse" : "flex-row"}`}>
           {/* Language toggle — desktop only */}
           <Link href={isArabic ? "/en" : "/ar"} className="hidden md:block">
             <span
